@@ -10,4 +10,6 @@ Un detalle a destacar es el uso de la tan despreciada libreria "conio.h" por su 
 de alguna otra tecla presionada sin intervencion de un EOF, lo que permite presionar una tecla y no tener que apretar enter para seguir
 la rutina, podría haberle dado color con las otras ventajas de esta libreria pero solo queria utilizar temporalmente la funcion getch() hasta poder emularla con alguna otra tecnica, todo para que pueda ser portable a otras plataformas ya que conio solo está disponible en forma nativamente "funcional" para windows.
 
-No recuerdo muy bien el funcionamiento ni la practica que utilice debido a que desatendi demasiado tiempo el codigo, que forma parte de mis practicas en C, pero tiene preparado las funciones y reglas del juego, solo que falta poder jugar una partida con la Computadora, que es un detalle no menos importante debido a que nunca me puse a planificarlo por que colisiona con el campo de la "inteligencia artificial", espero un dia volver bien instruido en la materia y terminarlo.
+
+
+Falta poder jugar con la computadora para que sea funcional.
